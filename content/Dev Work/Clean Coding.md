@@ -134,7 +134,7 @@ Main Theme: **KISS - Keep it simple, stupid**
 
 Motivation: Evolvability, Correctness, Production Efficiency
 
-> ![Pasted image 20220504111507](images/Pasted%20image%2020220504111507.png)
+> ![Pasted image 20220504111507](Pasted%20image%2020220504111507.png)
 
 dataclasses.dataclass -> ```__post__init``` method.
 

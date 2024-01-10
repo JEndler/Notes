@@ -13,7 +13,7 @@ Now, theres been a lot of talk about privacy, data governance and the like. Basi
 
 Pods, short for personal online data storage, is an idea coined by none other than Tim Berners Lee (yes, thats the inventor of the Internet).
 
-![Pasted image 20220527173513.png](images/Pasted%20image%2020220527173513.png)
+![Pasted image 20220527173513.png](Pasted%20image%2020220527173513.png)
 
 Pods work like **personal data safes**. By storing their data in a pod, individuals retain ownership and control of their own data, rather than transferring this to digital platforms. Under this system, companies can request access to an individual’s pod, offering certain services in return – but they cannot extract or sell that data onwards.
 
@@ -159,11 +159,11 @@ Simply run the Docker Container (if it is not already running), and you should b
 
 Now when you access your Domain, you should see this:
 
-![Pasted image 20220527182654](images/Pasted%20image%2020220527182654.png)
+![Pasted image 20220527182654](Pasted%20image%2020220527182654.png)
 
 After running the Setup, you will be presented with this:
 
-![Pasted image 20220527182759](images/Pasted%20image%2020220527182759.png)
+![Pasted image 20220527182759](Pasted%20image%2020220527182759.png)
 
 
 *Congrats, we did it :)*

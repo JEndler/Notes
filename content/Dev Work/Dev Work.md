@@ -14,7 +14,7 @@ This will be filled with Notes on my Personal Projects and Notes about Technolog
 
 [Docker, shortly](Docker,%20shortly.md)
 
-[Kubernetes](Kubernetes.md)
+[Kubernetes](Published/Dev%20Work/Kubernetes.md)
 
 [Setting up Obsidian Livesync](Setting%20up%20Obsidian%20Livesync.md)
 

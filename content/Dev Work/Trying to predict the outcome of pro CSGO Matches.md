@@ -70,7 +70,7 @@ I chose to use SQLite for its ease of use and speed.
 
 Here's a snapshot of my Database-Layout:
 
-![Database Layout](notes/images/DatabaseLayout.png)
+![Database Layout](DatabaseLayout.png)
 
 Now all thats left to do is run my Scraper for every match listed on HLTV.org, lets hope they dont have DDOS-Protection :)
 

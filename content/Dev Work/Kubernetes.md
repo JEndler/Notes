@@ -99,7 +99,7 @@ nginx-depl   0/1     1            0           12s
 **Editing the deployment**
 
 Using *kubectl edit deployment nginx-depl* will show the auto-generated config file:
- ![Pasted image 20220421104351](notes/images/Pasted%20image%2020220421104351.png)
+ ![Pasted image 20220421104351](Pasted%20image%2020220421104351.png)
 
 typing :wq will quit this view and apply changes.
 
@@ -110,7 +110,7 @@ typing :wq will quit this view and apply changes.
 a useful command for debugging is *kubectl logs PodName*, it produces the logs about whats going on inside the Pod.
 
 Another one to use is *kubectl describe pod PodName*, which gives more concise information about the pod.
-> ![Pasted image 20220421113243](notes/images/Pasted%20image%2020220421113243.png)
+> ![Pasted image 20220421113243](Pasted%20image%2020220421113243.png)
 
 
 Finally, if one needs a shell inside the Pod use:

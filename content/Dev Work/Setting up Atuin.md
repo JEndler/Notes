@@ -10,7 +10,7 @@ Also it has a nice look and feel :)
 
 It rebinds ctrl + r, and shows an interface like this:
 
-![[images/atuin_screenshot.png]]
+![[atuin_screenshot.png]]
 
 Lets go over how to install:
 

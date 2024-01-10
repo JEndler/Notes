@@ -83,7 +83,7 @@ CMD poetry run gunicorn -w 2 -b 127.0.0.1:8018 portfolio.wsgi
 
 related:
 
-[[Dev Work/Kubernetes]]
+[[Published/Dev Work/Kubernetes]]
 
 
 #fundamentals #docker
